@@ -4,7 +4,7 @@ COMPANY: CODTECH IT SOLUTIONS
 ID: CT08DS8227  
 DOMAIN: Embedded Systems  
 DURATION:September to October 2024  
-MENTOR: [Your Mentor]
+MENTOR: 
 
 OVERVIEW OF THE PROJECT 
 ---
